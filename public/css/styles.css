@@ -1,0 +1,55 @@
+
+
+body{
+    background-color: #E7EFC5;
+    padding: 10px;
+}
+a
+{
+    color : #E7EFC5;
+
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color : #E7EFC5;
+
+
+}
+
+#main-container
+{
+    background-color: black;
+    width: 50%;
+    height: 300px;
+    opacity: 0.2;
+    margin: 100px auto auto;
+    padding-top:100px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+
+.menu-h1
+{
+    display: inline;
+    margin-left: 150px;
+}
+
+form
+{
+   display:none;
+}
+
+button
+{
+    background: none;
+    border: 1px solid #6d6d6d;
+    margin-left: 10px;
+    display: inline;
+}
+
+#back
+{
+    color: black;
+}
